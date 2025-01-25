@@ -12,7 +12,7 @@ def life():
     
     MySocials = {
         "Website": "https://callmethomas.tech"
-        "GitHub": "https://github.com/FADEDElement"
+        "GitHub": "https://github.com/fadedelement"
     }
     
 ```
