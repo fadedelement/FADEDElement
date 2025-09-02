@@ -5,14 +5,14 @@ def life():
     print("I am a software developer hobbiest\n")
 
     MyGoals = ["Improve my programming skills", "Turn software development into a career not just a hobby"]
-    MyOperatingSystem = ["Garuda Linux", "Windows 11"]
+    MyOperatingSystem = ["Fedora Linux", "Windows 11", "Ubuntu Server"]
     Stacks = ["Java", "Python", "MCFunction", "Vitejs", "TailwindCSS", "Reactjs"]
     CurrentFocus = ["Python"]
     ContactMeAt = ["th101603@gmail.com"]
     
     MySocials = {
-        "Website": "https://callmethomas.tech"
-        "GitHub": "https://github.com/fadedelement"
+        "Website": "https://therealthomas.net"
+        "GitHub": "https://github.com/therealthomas"
     }
     
 ```
